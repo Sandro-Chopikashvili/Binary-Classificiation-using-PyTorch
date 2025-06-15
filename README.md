@@ -80,5 +80,5 @@ The goal is to classify samples into two classes accurately while showcasing bes
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/binary-classification-pytorch.git
+   git clone https://github.com/Sandro-Chopikashvili/binary-classification-pytorch.git
    cd binary-classification-pytorch
